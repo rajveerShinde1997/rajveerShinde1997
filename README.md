@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajveerShinde1997
+- 👋 Hi, I’m Rajveer Shinde
 - 👀 I’m interested in data engineering
 - 🌱 I’m currently learning data engineering
 - 💞️ I’m looking to collaborate on ...
